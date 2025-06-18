@@ -11,4 +11,4 @@
 
 ## Ссылка на геном
 
-(ссылка)[https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/590/095/GCF_003590095.1_tn1/]
+[ссылка](https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/590/095/GCF_003590095.1_tn1/)
