@@ -25,4 +25,8 @@
 
 <img width="836" alt="Снимок экрана 2025-06-19 в 08 52 01" src="https://github.com/user-attachments/assets/532d9c9d-0417-4398-8973-d62aabb0d265" />
 
+
+<img width="780" alt="Снимок экрана 2025-06-19 в 09 15 35" src="https://github.com/user-attachments/assets/6205ce8f-06df-476e-a7c1-a200d54c4c60" />
+
+
 <img width="779" alt="Снимок экрана 2025-06-19 в 08 52 20" src="https://github.com/user-attachments/assets/84cd1474-a6f4-403d-884d-3d7238459fc8" />
