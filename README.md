@@ -37,5 +37,5 @@
 
 <img width="748" alt="Снимок экрана 2025-06-19 в 22 36 02" src="https://github.com/user-attachments/assets/97f95c38-754d-446c-9c37-7051839bb2e4" />
 
-
+Код приведён в ноутбуках: https://colab.research.google.com/drive/1Lj3GwPvpaP6RpLJIaknwh5GDnj3i4bzj#scrollTo=GYcXpbz6-E5-, https://colab.research.google.com/drive/1034-4C3DqHAvnnipfivxjpD2rklDkJJZ#scrollTo=ansNTQkCf2_G, https://colab.research.google.com/drive/1AjZYdK0PPCrb6dIR2CKZtiXnVag5R8Zy 
 
